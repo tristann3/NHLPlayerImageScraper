@@ -10,3 +10,5 @@ git clone https://github.com/tristann3/NHLPlayerImageScraper.git
 pip install requirements.txt
 python3 image_scraper.py
 ```
+
+This will clone the repo to your machine, install dependencies, and run the image scraper to save images locally to your machine. Read the comments in the image_scraper.py file to see how it works!
