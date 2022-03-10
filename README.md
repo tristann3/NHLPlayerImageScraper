@@ -1,6 +1,6 @@
 # NHL Player Team Prediction
 
-This is Part 1 to my walkthrough on NHL Player Team Prediction task. You can find Part 2 in this [Kaggle Notebook](https://www.google.com)
+This is Part 1 to my walkthrough on NHL Player Team Prediction task. You can find Part 2 in this [Kaggle Notebook](https://www.kaggle.com/tristanthompson2/nhl-player-image-classification)
 
 
 ## How to run 
